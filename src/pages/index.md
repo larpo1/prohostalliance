@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Welcome to the Professional Host Alliance
-image: /img/christiann-koepke-dqys2pmytok-unsplash.jpg
+image: /img/keys.png
 heading: 'Towards a professional, sustainable short-term rental industry.'
 subheading: 'Towards a professional, sustainable short-term rental industry.'
 mainpitch:
