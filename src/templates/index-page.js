@@ -13,7 +13,19 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => (
- <section className="hero is-fullheight home">
+ <section className="hero is-fullheight home" 
+ style={{
+  backgroundImage: `
+  linear-gradient(
+    rgba(0, 0, 0, 0.45), 
+    rgba(0, 0, 0, 0.45)
+  ),
+  url(${
+    !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+  })`,
+  backgroundPosition: `bottom center`,
+  backgroundSize: `cover`,
+}}>
    <div className="hero-head">
      <Navbar />
    </div>
@@ -24,7 +36,7 @@ export const IndexPageTemplate = ({
         Professional Host Alliance
       </h1>
       <h2 className="subtitle">
-        Launching soon. 
+        Launching soon... 
       </h2>
       <Link to="register-interest" className="button is-primary">Register Your Interest</Link>
     </div>
