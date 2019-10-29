@@ -31,12 +31,12 @@ export const IndexPageTemplate = ({
    </div>
   <div className="hero-body">
     <div className="container has-text-centered">
-      <p className="subtitle">Welcome to the</p>
-      <h1 className="title">
+      <p className="subtitle has-text-light">Welcome to the</p>
+      <h1 className="title has-text-light is-size-1">
         Professional Host Alliance
       </h1>
-      <h2 className="subtitle">
-        Launching soon... 
+      <h2 className="subtitle has-text-light">
+        We are launching soon. In the mean time, please...
       </h2>
       <Link to="register-interest" className="button is-primary">Register Your Interest</Link>
     </div>
