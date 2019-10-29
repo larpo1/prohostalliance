@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Welcome to the Professional Host Alliance
+image: /img/christiann-koepke-dqys2pmytok-unsplash.jpg
+heading: 'Towards a professional, sustainable short-term rental industry.'
+subheading: 'Towards a professional, sustainable short-term rental industry.'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Register your interest
+  description: 'Sign up today for more information. '
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The Professional Host Alliance is free to join, and short-term rental
+  operators and property managers of any size and type from around the world are
+  actively encouraged to register and apply for membership. At launch, there are
+  some 40+ members across America, Europe, Middle East and Asia Pacific.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +41,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Why join the PHA?
+  description: where does this show?
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +60,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
