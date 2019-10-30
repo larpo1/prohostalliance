@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { logo } from '../img/brand/logotype-grayscale.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -40,7 +41,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-                Professional Host Alliance
+                <img src="{logo}" alt="pha logo" />
             </Link>
             {/* Hamburger menu */}
             <div
