@@ -95,7 +95,7 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={'name'}>
+                  <label className="label" htmlFor={'phone'}>
                     Phone
                   </label>
                   <div className="control">
@@ -125,7 +125,7 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={'company'}>
+                  <label className="label" htmlFor={'properties'}>
                     Properties Under Management
                   </label>
                   <div className="control">
