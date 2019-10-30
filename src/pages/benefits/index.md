@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: benefits-page
 title: About to the Professional Host Alliance
 ---
 We are a global community of short-term rental operators and property managers with shared beliefs and a common mission:
