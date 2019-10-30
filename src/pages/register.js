@@ -89,6 +89,51 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
+                  <label className="label" htmlFor={'name'}>
+                    Phone
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'text'}
+                      name={'phone'}
+                      onChange={this.handleChange}
+                      id={'phone'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={'company'}>
+                    Company
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'text'}
+                      name={'company'}
+                      onChange={this.handleChange}
+                      id={'company'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={'company'}>
+                    Properties Under Management
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'number'}
+                      name={'properties'}
+                      onChange={this.handleChange}
+                      id={'properties'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
                   <label className="label" htmlFor={'message'}>
                     Message
                   </label>
@@ -104,7 +149,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Register Interest
                   </button>
                 </div>
               </form>
