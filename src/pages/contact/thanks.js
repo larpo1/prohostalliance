@@ -4,13 +4,17 @@ import Navbar from '../../components/Navbar'
 
 export default () => (
   <Layout>
+    <section className="section hero is-fullheight">
+      <div className="hero-head">
     <Navbar />
-    <section className="section">
+      </div>
+      <div className="hero-body">
       <div className="container">
-        <div className="content">
+        <div className="content has-text-centered">
           <h1>Thank you!</h1>
-          <p>This is a custom thank you page for form submissions</p>
+          <p>We will contact you soon. </p>
         </div>
+      </div>
       </div>
     </section>
   </Layout>
