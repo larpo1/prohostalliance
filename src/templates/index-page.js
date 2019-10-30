@@ -31,9 +31,9 @@ export const IndexPageTemplate = ({
    </div>
   <div className="hero-body">
     <div className="container has-text-centered">
-      <p className="subtitle has-text-light">Welcome to the</p>
+      <p className="subtitle has-text-light">Welcome to</p>
       <h1 className="title has-text-light is-size-1">
-        Professional Host Alliance
+          <img src="/img/logotype-light.svg" style={{ height: '300px' }} alt="The Professional Host Alliance" />
       </h1>
       <h2 className="subtitle has-text-light">
         We are launching soon. In the mean time, please...
