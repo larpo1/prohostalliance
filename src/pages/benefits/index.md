@@ -1,16 +1,25 @@
 ---
 templateKey: benefits-page
-title: About to the Professional Host Alliance
+title: Membership Benefits
 ---
-We are a global community of short-term rental operators and property managers with shared beliefs and a common mission:
+# Immediate benefits for you and your business:
 
-We are committed to the continuous development of better experiences for guests and hosts.
+* Access significant growth opportunities for your short-term rental management business
+* Participate in national and international PR opportunities
+* Access exclusive educational content and networking events
+* Access to industry trends and insights
+* Enter awards that recognise industry best practice in short-term rental management
+* Actively shape incoming regulation impacting local markets where you operate
+* Display the Professional Host Alliance logo on your website and marketing collateral
 
-To support this, we believe there is a need to professionalise the alternative accommodation sector.
+# Long-term benefits for the Professional Host Alliance community:
 
-We are each committed to developing a sustainable global ecosystem with maximum social and economic impact.
+* Work with OTAs & technology providers to develop tools to drive more profitable property management operations
+* Collaborate to unlock new channels for acquiring guests and boosting occupancy
+* Build strategic partnerships with travel, real estate, and hospitality industry stakeholders and enable them to structurally embrace short-term rentals
+* Develop and promote a shared vision for a sustainable global industry
 
-If you share our beliefs and would like to play an active role in shaping the future of our industry, we welcome you to join us.
+
 
 # 
 
