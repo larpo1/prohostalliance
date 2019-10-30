@@ -49,7 +49,7 @@ export default class Index extends React.Component {
                 <div className="column">
                 <h1>It's free to join. Apply now.</h1>
                 <form
-                name="contact"
+                name="register"
                 method="post"
                 action="/contact/thanks/"
                 data-netlify="true"
