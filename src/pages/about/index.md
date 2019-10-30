@@ -1,33 +1,17 @@
 ---
 templateKey: about-page
-title: Welcome to the Professional Host Alliance
+title: About to the Professional Host Alliance
 ---
-# Our Vision
+We are a global community of short-term rental operators and property managers with shared beliefs and a common mission:
 
-To establish and grow an independent global body of professional hosts - i.e. short-term rental property managers and operators (in the broadest possible sense) - unified by a commitment to the founding vision of the Professional Host Alliance: \
-\
-To advocate and accelerate, the professionalisation of the global short-term rental industry.\
-\
-To enable better quality, more uniform experiences for guests and hosts within the alternative accommodation sector.\
-\
-To build a sustainable short-term rental ecosystem.
+We are committed to the continuous development of better experiences for guests and hosts.
 
-## The Professional Host Alliance will:
+To support this, we believe there is a need to professionalise the alternative accommodation sector.
 
-Represent and give a group voice to its membership to provide global industry leadership and vision.
+We are each committed to developing a sustainable global ecosystem with maximum social and economic impact.
 
-Collaborate both internally and with external partners (i.e. OTAs etc.) to address the key challenges facing professional hosts, and resolve them through building a better technology toolkit.
+If you share our beliefs and would like to play an active role in shaping the future of our industry, we welcome you to join us.
 
-Share industry insight, trends and best practice with a view to driving the industry forward.
-
-Recognise and reward industry best practice and innovation in short-term rental management.
-
-## Our Governance
-
-The Professional Host Alliance is founded and chaired by Lavanda, a technology enabled ecosystem of short-term rental operators and property managers.
-
-The inaugural Chairperson will be Guy Westlake, Founder of Lavanda.
-
-Leadership and committee elections will happen every 2 years (TBC).
+# 
 
 ###
