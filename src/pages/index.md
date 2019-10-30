@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Welcome to the Professional Host Alliance
-image: /img/duy-pham-cecb0_8hx-o-unsplash.jpg
+image: /img/hero-image-boutique-reception-min.png
 heading: 'Towards a professional, sustainable short-term rental industry.'
 subheading: 'Towards a professional, sustainable short-term rental industry.'
 mainpitch:
