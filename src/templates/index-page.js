@@ -33,12 +33,13 @@ export const IndexPageTemplate = ({
     <div className="container has-text-centered">
       <p className="subtitle has-text-light">Welcome to</p>
       <h1 className="title has-text-light is-size-1">
-          <img src="/img/logotype-light.svg" style={{ height: '300px' }} alt="The Professional Host Alliance" />
+          <img src="/img/logotype-light.svg" style={{ width: '450px' }} alt="The Professional Host Alliance" />
       </h1>
       <h2 className="subtitle has-text-light">
-        We are launching soon. In the mean time, please...
+        We're launching soon. In the mean time, please...
       </h2>
       <Link to="/register" className="button is-primary">JOIN US</Link>
+
     </div>
   </div>
  </section>
