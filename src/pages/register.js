@@ -41,8 +41,14 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Register Your Interest</h1>
-              <form
+              <div className="columns">
+                <div className="column">
+                  <h1>Membership</h1>
+              <p>The more members we have, the stronger our voice, and the faster we can build an industry with genuine social and economic impact.</p>
+              <p>If you are a short-term rental operator or property manager, we invite you to apply for membership by submitting the form below. A member of our team will be in touch within 7 days to validate that you meet our membership criteria and complete your registration.</p></div>
+                <div className="column">
+                <h1>It's free to join. Apply now.</h1>
+                <form
                 name="contact"
                 method="post"
                 action="/contact/thanks/"
@@ -149,10 +155,14 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Register Interest
+                    Apply
                   </button>
                 </div>
               </form>
+                </div>
+              </div>
+              
+              
             </div>
           </div>
         </section>

@@ -38,7 +38,7 @@ export const IndexPageTemplate = ({
       <h2 className="subtitle has-text-light">
         We are launching soon. In the mean time, please...
       </h2>
-      <Link to="/register" className="button is-primary">Register Your Interest</Link>
+      <Link to="/register" className="button is-primary">Join us</Link>
     </div>
   </div>
  </section>
